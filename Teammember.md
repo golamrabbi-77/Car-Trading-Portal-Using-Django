@@ -1,5 +1,5 @@
 # Car-Trading-Portal-Using-Django
-webapps project
+webapp project
 
 Team Member
 
